@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Duplex stainless steels</key>
+	<array>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4460, ASTM A182, A276, A479, UNS S32900</string>
+			<key>Carbon % </key>
+			<string>0.08 max</string>
+			<key>Chromium %</key>
+			<string>23-28</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string> -</string>
+			<key>Density</key>
+			<string>7.8</string>
+			<key>Elongation</key>
+			<string>25%</string>
+			<key>Grade</key>
+			<string>329</string>
+			<key>Hardness (BHN)</key>
+			<string>269 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1.00 max</string>
+			<key>Molybdenum %</key>
+			<string>1.0-2.0</string>
+			<key>Nickel %</key>
+			<string>2.0-5.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string>0.040 max</string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.75 max</string>
+			<key>Sulphur %</key>
+			<string>0.03 max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>725 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>550 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4462, ASTM A182, A276, A479, UNS S31803</string>
+			<key>Carbon % </key>
+			<string>0.030 max</string>
+			<key>Chromium %</key>
+			<string>21.0-23.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>-</string>
+			<key>Density</key>
+			<string>7.8</string>
+			<key>Elongation</key>
+			<string>25%</string>
+			<key>Grade</key>
+			<string>F51</string>
+			<key>Hardness (BHN)</key>
+			<string>270 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>2.00 max</string>
+			<key>Molybdenum %</key>
+			<string>2.5-3.5</string>
+			<key>Nickel %</key>
+			<string>4.5-6.5</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string>0.08-0.20</string>
+			<key>Phosphorous %</key>
+			<string>0.030 max</string>
+			<key>Reduction Area</key>
+			<string>45%</string>
+			<key>Silicon %</key>
+			<string>1.00 max</string>
+			<key>Sulphur %</key>
+			<string>0.020 max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>620 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>450</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4462, ASTM A182, A276, A479, UNS S32205</string>
+			<key>Carbon % </key>
+			<string>0.030 max</string>
+			<key>Chromium %</key>
+			<string>21.0-23.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>-</string>
+			<key>Density</key>
+			<string>7.8</string>
+			<key>Elongation</key>
+			<string>25%</string>
+			<key>Grade</key>
+			<string>F60</string>
+			<key>Hardness (BHN)</key>
+			<string>270 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>2.00 max</string>
+			<key>Molybdenum %</key>
+			<string>3.0 - 3.5</string>
+			<key>Nickel %</key>
+			<string>4.5-6.5</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string>0.14-0.20</string>
+			<key>Phosphorous %</key>
+			<string>0.030 max</string>
+			<key>Reduction Area</key>
+			<string>45%</string>
+			<key>Silicon %</key>
+			<string>1.00 max</string>
+			<key>Sulphur %</key>
+			<string>0.020 max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>620 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>450</string>
+		</dict>
+	</array>
+	<key>Super-duplex stainless steels</key>
+	<array>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4362, ASTM A182, A276, A479, UNS S32304</string>
+			<key>Carbon % </key>
+			<string>0.030 max</string>
+			<key>Chromium %</key>
+			<string>21.4-24.5</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>0.05-0.60</string>
+			<key>Density</key>
+			<string>7.8</string>
+			<key>Elongation</key>
+			<string>25%</string>
+			<key>Grade</key>
+			<string>Alloy 2304</string>
+			<key>Hardness (BHN)</key>
+			<string>270 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>2.50 max</string>
+			<key>Molybdenum %</key>
+			<string>0.05-0.60</string>
+			<key>Nickel %</key>
+			<string>3-5.5</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string>0.05-0.20</string>
+			<key>Phosphorous %</key>
+			<string>0.040 max</string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>1.00 max</string>
+			<key>Sulphur %</key>
+			<string>0.030 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>600 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>400 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4507, ASTM A182, A276, A479, UNS S32550</string>
+			<key>Carbon % </key>
+			<string>0.040 max</string>
+			<key>Chromium %</key>
+			<string>24.0-27.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>1.5-2.50</string>
+			<key>Density</key>
+			<string>7.8</string>
+			<key>Elongation</key>
+			<string>25%</string>
+			<key>Grade</key>
+			<string>Alloy F255</string>
+			<key>Hardness (BHN)</key>
+			<string>270 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1.50 Max</string>
+			<key>Molybdenum %</key>
+			<string>2.9-3.9</string>
+			<key>Nickel %</key>
+			<string>4.5-6.5</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string>0.10-0.25</string>
+			<key>Phosphorous %</key>
+			<string>0.040 max</string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>1.00 max</string>
+			<key>Sulphur %</key>
+			<string>0.030 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>750 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>550 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4410, ASTM A182, A276, A479, UNS S32750</string>
+			<key>Carbon % </key>
+			<string>0.030 max</string>
+			<key>Chromium %</key>
+			<string>24.0- 26.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>0.50 Max</string>
+			<key>Density</key>
+			<string>7.8</string>
+			<key>Elongation</key>
+			<string>15%</string>
+			<key>Grade</key>
+			<string>F53</string>
+			<key>Hardness (BHN)</key>
+			<string>310 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1.2 max</string>
+			<key>Molybdenum %</key>
+			<string>3.0 - 5.0</string>
+			<key>Nickel %</key>
+			<string>6.0-8.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string>0.24-0.32</string>
+			<key>Phosphorous %</key>
+			<string>0.035 max</string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.8 max</string>
+			<key>Sulphur %</key>
+			<string>0.02</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>800 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>550</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4501, ASTM A182, A276, A479, UNS S32760</string>
+			<key>Carbon % </key>
+			<string>0.030 max</string>
+			<key>Chromium %</key>
+			<string>24.0- 26.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>0.50 - 1.00 </string>
+			<key>Density</key>
+			<string>7.8</string>
+			<key>Elongation</key>
+			<string>25.00%</string>
+			<key>Grade</key>
+			<string>F55</string>
+			<key>Hardness (BHN)</key>
+			<string>310 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1.00 max</string>
+			<key>Molybdenum %</key>
+			<string>3.0 - 4.0</string>
+			<key>Nickel %</key>
+			<string>6.0-8.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string>0.20-0.30</string>
+			<key>Phosphorous %</key>
+			<string>0.030 max</string>
+			<key>Reduction Area</key>
+			<string>45%</string>
+			<key>Silicon %</key>
+			<string>1.00 max</string>
+			<key>Sulphur %</key>
+			<string>0.01</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>0.50 - 1.00</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>750 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>550</string>
+		</dict>
+	</array>
+	<key>Super-austenitic stainless steels</key>
+	<array>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>2.4660, ASTM B473, SB462, UNS N08020</string>
+			<key>Carbon % </key>
+			<string>0.07</string>
+			<key>Chromium %</key>
+			<string>19.0 - 21.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>3.00 - 4.00</string>
+			<key>Density</key>
+			<string>8.08</string>
+			<key>Elongation</key>
+			<string>30%</string>
+			<key>Grade</key>
+			<string>Alloy 20</string>
+			<key>Hardness (BHN)</key>
+			<string>217 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>2.00 max</string>
+			<key>Molybdenum %</key>
+			<string>2.0 - 3.0</string>
+			<key>Nickel %</key>
+			<string>32.0 - 38.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>1.00 max</string>
+			<key>Sulphur %</key>
+			<string>0.035 max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>551 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>241</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>2.4858, ASTM B425, B564, UNS N08825</string>
+			<key>Carbon % </key>
+			<string>0.05 Max</string>
+			<key>Chromium %</key>
+			<string>19.5-23.5</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>1.5-3.0</string>
+			<key>Density</key>
+			<string>8.14</string>
+			<key>Elongation</key>
+			<string>45%</string>
+			<key>Grade</key>
+			<string>Alloy 825</string>
+			<key>Hardness (BHN)</key>
+			<string>180 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1.00 Max</string>
+			<key>Molybdenum %</key>
+			<string>2.5-3.5</string>
+			<key>Nickel %</key>
+			<string>38.0-46.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.05 Max</string>
+			<key>Sulphur %</key>
+			<string>0.030 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>690 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>310 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4539, ASTM B677, B366, UNS N08904</string>
+			<key>Carbon % </key>
+			<string>0.02</string>
+			<key>Chromium %</key>
+			<string>19.0 - 23.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>1.00 - 2.00</string>
+			<key>Density</key>
+			<string>8</string>
+			<key>Elongation</key>
+			<string>50%</string>
+			<key>Grade</key>
+			<string>904 L</string>
+			<key>Hardness (BHN)</key>
+			<string>230 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>2.00 max</string>
+			<key>Molybdenum %</key>
+			<string>4.0 - 5.0</string>
+			<key>Nickel %</key>
+			<string>23.0 - 28.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string>55%</string>
+			<key>Silicon %</key>
+			<string>1.00 max</string>
+			<key>Sulphur %</key>
+			<string>0.035 max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>490Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>220</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4529, ASTM A 240, A 480, B 366, B 472, B 625, B 649, B 673, B 674, B 677, B 751, B 775, B 804, B 829; W. Nr. 1.4529</string>
+			<key>Carbon % </key>
+			<string>0.02</string>
+			<key>Chromium %</key>
+			<string>19.0 -21.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>0.50 - 1.50</string>
+			<key>Density</key>
+			<string>8.03</string>
+			<key>Elongation</key>
+			<string>42%</string>
+			<key>Grade</key>
+			<string>Alloy 25-6 M0</string>
+			<key>Hardness (BHN)</key>
+			<string>295 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>2.00 Max</string>
+			<key>Molybdenum %</key>
+			<string>6.0 - 7.0</string>
+			<key>Nickel %</key>
+			<string>24.0 - 26.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.50 Max</string>
+			<key>Sulphur %</key>
+			<string>0.010 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>690 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>330 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4547, ASTM A 276, A 479 ;  ASME SA-479;</string>
+			<key>Carbon % </key>
+			<string>0.02</string>
+			<key>Chromium %</key>
+			<string>20</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>0.7</string>
+			<key>Density</key>
+			<string>8</string>
+			<key>Elongation</key>
+			<string>35%</string>
+			<key>Grade</key>
+			<string>Alloy 254 SMO</string>
+			<key>Hardness (BHN)</key>
+			<string>210 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1</string>
+			<key>Molybdenum %</key>
+			<string>6.1</string>
+			<key>Nickel %</key>
+			<string>18</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string>50%</string>
+			<key>Silicon %</key>
+			<string>0.8</string>
+			<key>Sulphur %</key>
+			<string>0.01</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>650 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>300 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.3964, ASTM A193 ASTM A194 ASTM A276 ASTM A479 AMS 5764</string>
+			<key>Carbon % </key>
+			<string>0.06</string>
+			<key>Chromium %</key>
+			<string>20.5 - 23.5</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>-</string>
+			<key>Density</key>
+			<string>7.8</string>
+			<key>Elongation</key>
+			<string>35%</string>
+			<key>Grade</key>
+			<string>XM-19</string>
+			<key>Hardness (BHN)</key>
+			<string>293 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>4.0 - 6.0</string>
+			<key>Molybdenum %</key>
+			<string>1.5- 3.0</string>
+			<key>Nickel %</key>
+			<string>11.5- 13.5</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string>55%</string>
+			<key>Silicon %</key>
+			<string>1.00 Max</string>
+			<key>Sulphur %</key>
+			<string>0.030 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>690 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>380</string>
+		</dict>
+	</array>
+	<key>Nickel-based Super Alloys</key>
+	<array>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>2.4819, ASTM B574, Din 17752</string>
+			<key>Carbon % </key>
+			<string>0.01 Max</string>
+			<key>Chromium %</key>
+			<string>14.5 - 16.5</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>-</string>
+			<key>Density</key>
+			<string>8.89</string>
+			<key>Elongation</key>
+			<string>62%</string>
+			<key>Grade</key>
+			<string>Alloy C-276</string>
+			<key>Hardness (BHN)</key>
+			<string>252 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1.00 Max</string>
+			<key>Molybdenum %</key>
+			<string>15.0 - 17.0</string>
+			<key>Nickel %</key>
+			<string>55</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.08 Max</string>
+			<key>Sulphur %</key>
+			<string>0.030 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>3.0-4.5</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>758 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>363 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>2.4816, ASTM B166, ASTM B564, AMS 5665, Din 17752</string>
+			<key>Carbon % </key>
+			<string>0.15</string>
+			<key>Chromium %</key>
+			<string>14.0 - 17.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>0.5</string>
+			<key>Density</key>
+			<string>8.47</string>
+			<key>Elongation</key>
+			<string>30%</string>
+			<key>Grade</key>
+			<string>Alloy 600</string>
+			<key>Hardness (BHN)</key>
+			<string>210 BHN</string>
+			<key>Iron %</key>
+			<string>6-10%</string>
+			<key>Manganese %</key>
+			<string>1</string>
+			<key>Molybdenum %</key>
+			<string>-</string>
+			<key>Nickel %</key>
+			<string>72.0 Min</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.5</string>
+			<key>Sulphur %</key>
+			<string>0.015</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>552 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>241 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string>0.20-0.80</string>
+			<key>Applicable Standards</key>
+			<string>2.4668, ASTM B637, AMS 5662, AMS 5663, AMS 5664</string>
+			<key>Carbon % </key>
+			<string>0.08 Max</string>
+			<key>Chromium %</key>
+			<string>17-21</string>
+			<key>Cobalt %</key>
+			<string>1.0 Max.</string>
+			<key>Copper %</key>
+			<string>0.30 Max</string>
+			<key>Density</key>
+			<string>8.19</string>
+			<key>Elongation</key>
+			<string>12%</string>
+			<key>Grade</key>
+			<string>Alloy 718</string>
+			<key>Hardness (BHN)</key>
+			<string>331 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>0.35 Max</string>
+			<key>Molybdenum %</key>
+			<string>2.8-3.3</string>
+			<key>Nickel %</key>
+			<string>50-55</string>
+			<key>Niobium %</key>
+			<string>4.75-5.50</string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string>0.015 Max.</string>
+			<key>Reduction Area</key>
+			<string>15%</string>
+			<key>Silicon %</key>
+			<string>0.35 Max</string>
+			<key>Sulphur %</key>
+			<string>0.015 Max.</string>
+			<key>Titanium %</key>
+			<string>0.65-1.15</string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>1275 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>1034 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string>0.40-1.00</string>
+			<key>Applicable Standards</key>
+			<string>2.4669, ASTM B637, AMS 5699</string>
+			<key>Carbon % </key>
+			<string>0.08 Max</string>
+			<key>Chromium %</key>
+			<string>14-17</string>
+			<key>Cobalt %</key>
+			<string>1.0 Max.</string>
+			<key>Copper %</key>
+			<string>0.50 Max</string>
+			<key>Density</key>
+			<string>8.28</string>
+			<key>Elongation</key>
+			<string>10%</string>
+			<key>Grade</key>
+			<string>Alloy X750</string>
+			<key>Hardness (BHN)</key>
+			<string>302 - 363 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>0.50 Max</string>
+			<key>Molybdenum %</key>
+			<string>1.00 Max.</string>
+			<key>Nickel %</key>
+			<string>70.0 Min</string>
+			<key>Niobium %</key>
+			<string>0.70-1.20</string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string>12%</string>
+			<key>Silicon %</key>
+			<string>1.00 max</string>
+			<key>Sulphur %</key>
+			<string>0.010 Max.</string>
+			<key>Titanium %</key>
+			<string>2.25-2.75</string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>1170 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>790 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>2.4856, ASTM B446, AMS 5666 BS3076</string>
+			<key>Carbon % </key>
+			<string>0.10 Max</string>
+			<key>Chromium %</key>
+			<string>20-22</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>-</string>
+			<key>Density</key>
+			<string>8.44</string>
+			<key>Elongation</key>
+			<string>50%</string>
+			<key>Grade</key>
+			<string>Alloy 625</string>
+			<key>Hardness (BHN)</key>
+			<string>220 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>0.50 Max</string>
+			<key>Molybdenum %</key>
+			<string>8-10</string>
+			<key>Nickel %</key>
+			<string>58 Min</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.50 Max</string>
+			<key>Sulphur %</key>
+			<string>0.015 Max.</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>905 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>490 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>2.4360, ASTM B164, ASTM B564, DIN 17750</string>
+			<key>Carbon % </key>
+			<string>0.3 Max</string>
+			<key>Chromium %</key>
+			<string>-</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>28.0-34.0</string>
+			<key>Density</key>
+			<string>8.8</string>
+			<key>Elongation</key>
+			<string>35%</string>
+			<key>Grade</key>
+			<string>Alloy 400</string>
+			<key>Hardness (BHN)</key>
+			<string>120 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>2.0 Max</string>
+			<key>Molybdenum %</key>
+			<string>-</string>
+			<key>Nickel %</key>
+			<string>63</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.5 Max</string>
+			<key>Sulphur %</key>
+			<string>0.024 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>480 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>170 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>2.4376, ASTM B865 QQ-N-286</string>
+			<key>Carbon % </key>
+			<string>0.25 Max</string>
+			<key>Chromium %</key>
+			<string>-</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>30</string>
+			<key>Density</key>
+			<string>8.44</string>
+			<key>Elongation</key>
+			<string>20%</string>
+			<key>Grade</key>
+			<string>Alloy K-500</string>
+			<key>Hardness (BHN)</key>
+			<string>265 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1.50 Max</string>
+			<key>Molybdenum %</key>
+			<string>-</string>
+			<key>Nickel %</key>
+			<string>63</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.50 Max</string>
+			<key>Sulphur %</key>
+			<string>0.010 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>965 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>690 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.4980, ASTM A 638, ASME SA 638</string>
+			<key>Carbon % </key>
+			<string>0.08 Max</string>
+			<key>Chromium %</key>
+			<string>13.50 - 16.00</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>-</string>
+			<key>Density</key>
+			<string>7.94</string>
+			<key>Elongation</key>
+			<string>40%</string>
+			<key>Grade</key>
+			<string>Alloy A286</string>
+			<key>Hardness (BHN)</key>
+			<string>180 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>2.00 Max</string>
+			<key>Molybdenum %</key>
+			<string>1.00 - 1.75</string>
+			<key>Nickel %</key>
+			<string>25.5</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>1.00 Max</string>
+			<key>Sulphur %</key>
+			<string>0.030 Max</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>620 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>275 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string>0.15-0.60</string>
+			<key>Applicable Standards</key>
+			<string>1.4876, ASTM B408, ASTM B564</string>
+			<key>Carbon % </key>
+			<string>0.1 Max</string>
+			<key>Chromium %</key>
+			<string>19.0-23.0</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>0.75 Max</string>
+			<key>Density</key>
+			<string>7.94</string>
+			<key>Elongation</key>
+			<string>30%</string>
+			<key>Grade</key>
+			<string>Alloy 800</string>
+			<key>Hardness (BHN)</key>
+			<string>180 BHN</string>
+			<key>Iron %</key>
+			<string>39.5 min</string>
+			<key>Manganese %</key>
+			<string>1.50 Max</string>
+			<key>Molybdenum %</key>
+			<string>-</string>
+			<key>Nickel %</key>
+			<string>30.0-35.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>1.00 Max</string>
+			<key>Sulphur %</key>
+			<string>0.015 Max</string>
+			<key>Titanium %</key>
+			<string>0.15-0.60</string>
+			<key>Tungsten %</key>
+			<string>-</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>517 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>207 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.3912, ASTM B 388 &amp; B 753, DIN 1715 , SEW 385</string>
+			<key>Carbon % </key>
+			<string>0.1</string>
+			<key>Chromium %</key>
+			<string>0.5</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>-</string>
+			<key>Density</key>
+			<string>8.11</string>
+			<key>Elongation</key>
+			<string>42%</string>
+			<key>Grade</key>
+			<string>Alloy 36</string>
+			<key>Hardness (BHN)</key>
+			<string>140 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>0.6</string>
+			<key>Molybdenum %</key>
+			<string>0.5</string>
+			<key>Nickel %</key>
+			<string>35.0-38.0</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.35</string>
+			<key>Sulphur %</key>
+			<string>0.025</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>P-0.025</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>490 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>240 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>1.3917, ASTM F 30, SEW 385, </string>
+			<key>Carbon % </key>
+			<string>0.05</string>
+			<key>Chromium %</key>
+			<string>0.25</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>-</string>
+			<key>Density</key>
+			<string>8.05</string>
+			<key>Elongation</key>
+			<string>42%</string>
+			<key>Grade</key>
+			<string>Alloy 42</string>
+			<key>Hardness (BHN)</key>
+			<string>130 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>0.8</string>
+			<key>Molybdenum %</key>
+			<string>-</string>
+			<key>Nickel %</key>
+			<string>42</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>0.3</string>
+			<key>Sulphur %</key>
+			<string>0.025</string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string>P-0.025</string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>520 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>340 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string>0.50-1.80</string>
+			<key>Applicable Standards</key>
+			<string>2.4631, ASTM B637, UNS N07080</string>
+			<key>Carbon % </key>
+			<string>0.10 Max</string>
+			<key>Chromium %</key>
+			<string>18-21</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string></string>
+			<key>Density</key>
+			<string>8.19</string>
+			<key>Elongation</key>
+			<string>20%</string>
+			<key>Grade</key>
+			<string>Nimonic 80A</string>
+			<key>Hardness (BHN)</key>
+			<string>310-400 BHN</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>1.00 Max</string>
+			<key>Molybdenum %</key>
+			<string></string>
+			<key>Nickel %</key>
+			<string>Remainder</string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string>1.00 Max</string>
+			<key>Sulphur %</key>
+			<string>0.015 Max.</string>
+			<key>Titanium %</key>
+			<string>1.80-2.70</string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>930 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>620 Mpa</string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string></string>
+			<key>Carbon % </key>
+			<string></string>
+			<key>Chromium %</key>
+			<string></string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string></string>
+			<key>Density</key>
+			<string></string>
+			<key>Elongation</key>
+			<string></string>
+			<key>Grade</key>
+			<string>Inconel 901</string>
+			<key>Hardness (BHN)</key>
+			<string></string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string></string>
+			<key>Molybdenum %</key>
+			<string></string>
+			<key>Nickel %</key>
+			<string></string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string></string>
+			<key>Sulphur %</key>
+			<string></string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string></string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>ASTM A564</string>
+			<key>Carbon % </key>
+			<string></string>
+			<key>Chromium %</key>
+			<string></string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string></string>
+			<key>Density</key>
+			<string></string>
+			<key>Elongation</key>
+			<string></string>
+			<key>Grade</key>
+			<string>17-4PH</string>
+			<key>Hardness (BHN)</key>
+			<string></string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string></string>
+			<key>Molybdenum %</key>
+			<string></string>
+			<key>Nickel %</key>
+			<string></string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string></string>
+			<key>Sulphur %</key>
+			<string></string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string></string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>ASTM A564</string>
+			<key>Carbon % </key>
+			<string></string>
+			<key>Chromium %</key>
+			<string></string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string></string>
+			<key>Density</key>
+			<string></string>
+			<key>Elongation</key>
+			<string></string>
+			<key>Grade</key>
+			<string>15-5PH</string>
+			<key>Hardness (BHN)</key>
+			<string></string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string></string>
+			<key>Molybdenum %</key>
+			<string></string>
+			<key>Nickel %</key>
+			<string></string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string></string>
+			<key>Sulphur %</key>
+			<string></string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string></string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>ASTM A276, A479</string>
+			<key>Carbon % </key>
+			<string></string>
+			<key>Chromium %</key>
+			<string></string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string></string>
+			<key>Density</key>
+			<string></string>
+			<key>Elongation</key>
+			<string></string>
+			<key>Grade</key>
+			<string>Nitronic 60</string>
+			<key>Hardness (BHN)</key>
+			<string></string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string></string>
+			<key>Molybdenum %</key>
+			<string></string>
+			<key>Nickel %</key>
+			<string></string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string></string>
+			<key>Sulphur %</key>
+			<string></string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string></string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string></string>
+			<key>Applicable Standards</key>
+			<string>ASTM B564, AMS 5940</string>
+			<key>Carbon % </key>
+			<string></string>
+			<key>Chromium %</key>
+			<string></string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string></string>
+			<key>Density</key>
+			<string></string>
+			<key>Elongation</key>
+			<string></string>
+			<key>Grade</key>
+			<string>Inconel 783</string>
+			<key>Hardness (BHN)</key>
+			<string></string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string></string>
+			<key>Molybdenum %</key>
+			<string></string>
+			<key>Nickel %</key>
+			<string></string>
+			<key>Niobium %</key>
+			<string></string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string></string>
+			<key>Reduction Area</key>
+			<string></string>
+			<key>Silicon %</key>
+			<string></string>
+			<key>Sulphur %</key>
+			<string></string>
+			<key>Titanium %</key>
+			<string></string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string></string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Aluminium %</key>
+			<string>0.10-0.50</string>
+			<key>Applicable Standards</key>
+			<string>ASTM B637, UNS N09925</string>
+			<key>Carbon % </key>
+			<string>0.030 max</string>
+			<key>Chromium %</key>
+			<string>19.5-22.5</string>
+			<key>Cobalt %</key>
+			<string></string>
+			<key>Copper %</key>
+			<string>1.5-3.0</string>
+			<key>Density</key>
+			<string></string>
+			<key>Elongation</key>
+			<string>18%</string>
+			<key>Grade</key>
+			<string>Inconel 925</string>
+			<key>Hardness (BHN)</key>
+			<string>38 HRC Max</string>
+			<key>Iron %</key>
+			<string></string>
+			<key>Manganese %</key>
+			<string>0.50 Max</string>
+			<key>Molybdenum %</key>
+			<string>2.5-3.5</string>
+			<key>Nickel %</key>
+			<string>42.0-46.0</string>
+			<key>Niobium %</key>
+			<string>0.50 Max</string>
+			<key>Nitrogen %</key>
+			<string></string>
+			<key>Phosphorous %</key>
+			<string>0.03 Max</string>
+			<key>Reduction Area</key>
+			<string>25%</string>
+			<key>Silicon %</key>
+			<string>1.0 Max</string>
+			<key>Sulphur %</key>
+			<string>0.030 Max</string>
+			<key>Titanium %</key>
+			<string>1.9-2.4</string>
+			<key>Tungsten %</key>
+			<string></string>
+			<key>U.T.S. (N/MM2)</key>
+			<string>965 Mpa</string>
+			<key>Yeild Strength  (Mpa)</key>
+			<string>758 Mpa</string>
+		</dict>
+	</array>
+</dict>
+</plist>
