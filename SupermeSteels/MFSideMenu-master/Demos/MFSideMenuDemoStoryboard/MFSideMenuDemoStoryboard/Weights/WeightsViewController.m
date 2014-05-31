@@ -15,11 +15,13 @@
 @implementation WeightsViewController
 @synthesize densityLable, diameterTxtField, lengthTxtField, volumeLable, surfaceAreaLable, weightLable, weightPoundsLable, convertUnits;
 @synthesize keyboardDismissGestureRecognizer;
-@synthesize convertRatio;
-@synthesize diameterConversionBtn, lengthConversionBtn, unitConversionPickerView;
+@synthesize convertRatioDiameter;
+@synthesize convertRatioLength;
+@synthesize diameterConversionBtn, lengthConversionBtn, unitConversionPickerViewDiameter, unitConversionPickerViewLength;
 @synthesize resultVIew;
 @synthesize diameterConvLable, lengthConvLable;
 @synthesize diaLengthLable;
+@synthesize convertDiameter, convertLength;
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
@@ -35,7 +37,8 @@
 	self.title = @"Weights";
     [self setupMenuBarButtonItems];
     
-    convertRatio = 1.0f;
+    convertRatioDiameter = 1.0f;
+    convertRatioLength = 1.0f;
     
     convertUnits = @[@"Meter", @"Milimeter",
                        @"Inches",];
@@ -58,7 +61,8 @@
 {
     [super viewWillAppear:YES];
     
-    unitConversionPickerView.hidden = YES;
+    unitConversionPickerViewDiameter.hidden = YES;
+    unitConversionPickerViewLength.hidden = YES;
     resultVIew.hidden = YES;
     
     double density =     [[NSUserDefaults standardUserDefaults] doubleForKey:@"DensityValue"];
@@ -135,7 +139,7 @@
 {
     double volume = 0.0;
     
-    volume = (22 * diameter*convertRatio * diameter*convertRatio * length*convertRatio) / (4*7) ;
+    volume = (22 * diameter*convertRatioDiameter * diameter*convertRatioDiameter * length*convertRatioLength) / (4*7) ;
     
     return volume;
 }
@@ -144,7 +148,7 @@
 {
     double surfaceArea = 0.0;
     
-    surfaceArea = ((22 * diameter*convertRatio * diameter*convertRatio)/(2*7)) + ((22 * diameter*convertRatio * length*convertRatio)/7);
+    surfaceArea = ((22 * diameter*convertRatioDiameter * diameter*convertRatioDiameter)/(2*7)) + ((22 * diameter*convertRatioDiameter * length*convertRatioLength)/7);
     
     return surfaceArea;
 }
@@ -260,7 +264,11 @@
 {
     [self performSelector:@selector(dismissKeyboardSelector) withObject:nil afterDelay:0.01];
     
-    unitConversionPickerView.hidden = YES;
+    unitConversionPickerViewDiameter.hidden = YES;
+    unitConversionPickerViewLength.hidden = YES;
+    convertLength = NO;
+    convertDiameter = NO;
+    
 }
 
 - (void) dismissKeyboardSelector
@@ -296,42 +304,62 @@ numberOfRowsInComponent:(NSInteger)component
 -(void)pickerView:(UIPickerView *)pickerView didSelectRow:(NSInteger)row
       inComponent:(NSInteger)component
 {
-    switch (row) {
-        case 0:
-            convertRatio = 1.0f;
-            diameterConvLable.text = @"m";
-            lengthConvLable.text = @"m";
-            break;
-        case 1:
-            convertRatio = 0.001f;
-            diameterConvLable.text = @"mm";
-            lengthConvLable.text = @"mm";
-            break;
-        case 2:
-            convertRatio = 0.0254f;
-            diameterConvLable.text = @"Inch";
-            lengthConvLable.text = @"Inch";
-            break;
-            
-        default:
-            break;
+    if (convertDiameter)
+    {
+        switch (row) {
+            case 0:
+                convertRatioDiameter = 1.0f;
+                diameterConvLable.text = @"m";
+                break;
+            case 1:
+                convertRatioDiameter = 0.001f;
+                diameterConvLable.text = @"mm";
+                break;
+            case 2:
+                convertRatioDiameter = 0.0254f;
+                diameterConvLable.text = @"Inch";
+                break;
+                
+            default:
+                break;
+        }
+        
     }
+    else if (convertLength)
+    {
+        switch (row) {
+            case 0:
+                convertRatioLength = 1.0f;
+                lengthConvLable.text = @"m";
+                break;
+            case 1:
+                convertRatioLength = 0.001f;
+                lengthConvLable.text = @"mm";
+                break;
+            case 2:
+                convertRatioLength = 0.0254f;
+                lengthConvLable.text = @"Inch";
+                break;
+                
+            default:
+                break;
+        }
+    }
+    
 }
 
 
 
 - (IBAction)diameterConversion:(id)sender
 {
-    [self displayUnitPicker];
+    unitConversionPickerViewDiameter.hidden = NO;
+    convertDiameter = YES;
 }
 
 - (IBAction)lengthConversion:(id)sender
 {
-    [self displayUnitPicker];
+    unitConversionPickerViewLength.hidden = NO;
+    convertLength = YES;
 }
 
--(void)displayUnitPicker
-{
-    unitConversionPickerView.hidden = NO;
-}
 @end

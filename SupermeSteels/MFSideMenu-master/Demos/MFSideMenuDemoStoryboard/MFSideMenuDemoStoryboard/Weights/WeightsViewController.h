@@ -20,7 +20,8 @@
 @property (weak, nonatomic) IBOutlet UILabel *diameterConvLable;
 @property (weak, nonatomic) IBOutlet UIButton *lengthConversionBtn;
 @property (weak, nonatomic) IBOutlet UILabel *lengthConvLable;
-@property (weak, nonatomic) IBOutlet UIPickerView *unitConversionPickerView;
+@property (weak, nonatomic) IBOutlet UIPickerView *unitConversionPickerViewDiameter;
+@property (weak, nonatomic) IBOutlet UIPickerView *unitConversionPickerViewLength;
 @property (weak, nonatomic) IBOutlet UIView *resultVIew;
 @property (weak, nonatomic) IBOutlet UILabel *diaLengthLable;
 
@@ -31,7 +32,10 @@
 
 @property (nonatomic, strong) UITapGestureRecognizer *keyboardDismissGestureRecognizer;
 @property (strong, nonatomic) NSArray *convertUnits;
-@property (nonatomic) double convertRatio;
+@property (nonatomic) double convertRatioDiameter;
+@property (nonatomic) double convertRatioLength;
+@property (nonatomic) BOOL convertLength;
+@property (nonatomic) BOOL convertDiameter;
 -(double)calculateVolumeWithDiameter:(double)diameter andLength:(double)length;
 -(double)calculateSurfaceAreaWithDiameter:(double)diameter andLength:(double)length;
 -(double)calculateWeightWithVolume:(double)volume andDensity:(double)density;

@@ -39,7 +39,7 @@
     
 //    productContentArr = [[NSMutableArray alloc] initWithObjects:@"Aluminium %",@"Cobalt %",@"Grade",@"Iron %",@"Niobium %",@"Nitrogen %",@"Phosphorous %",@"Titanium %", nil];
     
-    productContentArr = [[NSMutableArray alloc] initWithObjects:@"Applicable Standards", @"Carbon %", @"Silicon %", @"Manganese %", @"Sulphur %", @"Chromium %", @"Molybdenum %", @"Copper %", @"Nickel %", @"Tungsten %", @"Hardness (BHN)", @"Density", @"U.T.S. (N/MM2)", @"Yeild Strength  (Mpa)", @"Elongation", @"Reduction Area",nil];
+    productContentArr = [[NSMutableArray alloc] initWithObjects:@"Applicable Standards", @"Carbon % ", @"Silicon %", @"Manganese %", @"Sulphur %", @"Chromium %", @"Molybdenum %", @"Copper %", @"Nickel %", @"Tungsten %", @"Hardness (BHN)", @"Density", @"U.T.S. (N/MM2)", @"Yeild Strength  (Mpa)", @"Elongation", @"Reduction Area",nil];
     
 }
 
