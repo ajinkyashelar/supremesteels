@@ -70,7 +70,7 @@
     
     NSString * densityStr = [NSString ConvertoNumberFormate:[NSString stringWithFormat:@"%f", density]];
     
-    densityLable.text = [NSString stringWithFormat:@"Density = %@ Kg/m\u00B3 (%@)", densityStr, grade];
+    densityLable.text = [NSString stringWithFormat:@"Density = %@ g/cm\u00B3 (%@)", densityStr, grade];
     
 }
 
@@ -157,7 +157,7 @@
 {
     double weight = 0.0;
     
-    weight = volume * density;
+    weight = volume * density * 1000;
     
     return weight;
 }
@@ -216,13 +216,13 @@
         
         double density =     [[NSUserDefaults standardUserDefaults] doubleForKey:@"DensityValue"];
         
-        double weight = volume * density;
+        double weight = [self calculateWeightWithVolume:volume andDensity:density];
         
         double weightPounds = [self calculateWeightInPounds:weight];;
         
         volumeLable.text = [NSString stringWithFormat:@"%@ m\u00B3", [NSString ConvertoMaxThreeDecimalNumberFormate:[NSString stringWithFormat:@"%f", volume]]];
         surfaceAreaLable.text = [NSString stringWithFormat:@"%@ m\u00B2", [NSString ConvertoMaxThreeDecimalNumberFormate:[NSString stringWithFormat:@"%f", surfaceArea]]];
-        weightLable.text = [NSString stringWithFormat:@"%@ Kg", [NSString ConvertoMaxThreeDecimalNumberFormate:[NSString stringWithFormat:@"%f", weight]]];
+        weightLable.text = [NSString stringWithFormat:@"%@ Kgs", [NSString ConvertoMaxThreeDecimalNumberFormate:[NSString stringWithFormat:@"%f", weight]]];
         weightPoundsLable.text = [NSString stringWithFormat:@"%@ Lbs", [NSString ConvertoMaxThreeDecimalNumberFormate:[NSString stringWithFormat:@"%f", weightPounds]]];
         diaLengthLable.text = [NSString stringWithFormat:@"Diameter : %@ %@ & Length : %@ %@", diameterTxtField.text,diameterConvLable.text,lengthTxtField.text, lengthConvLable.text];
     }
