@@ -654,15 +654,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Abhinav Chowdhri (B2MW4895J9)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Abhinav Chowdhri (B2MW4895J9)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Abhinav Chowdhri (996C8JBTAB)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Abhinav Chowdhri (996C8JBTAB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MFSideMenuDemoStoryboard/MFSideMenuDemoStoryboard-Prefix.pch";
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "MFSideMenuDemoStoryboard/MFSideMenuDemoStoryboard-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "C24E5A3F-D80A-4CD9-9CA1-955EE7CF4606";
+				PROVISIONING_PROFILE = "C20F1DF7-98DF-4F61-A33D-380EBB14D27D";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "";
 				WRAPPER_EXTENSION = app;
@@ -674,15 +674,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Abhinav Chowdhri (B2MW4895J9)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Abhinav Chowdhri (B2MW4895J9)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Abhinav Chowdhri (996C8JBTAB)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Abhinav Chowdhri (996C8JBTAB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MFSideMenuDemoStoryboard/MFSideMenuDemoStoryboard-Prefix.pch";
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "MFSideMenuDemoStoryboard/MFSideMenuDemoStoryboard-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "C24E5A3F-D80A-4CD9-9CA1-955EE7CF4606";
+				PROVISIONING_PROFILE = "C20F1DF7-98DF-4F61-A33D-380EBB14D27D";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "";
 				WRAPPER_EXTENSION = app;
